@@ -1,6 +1,6 @@
 # hello, world 👋
 
-- 🎓 I'm currently a Computer Science student specializing in Software Technology at De La Salle University (ID 121).
+- 🎓 I'm currently a Computer Science student specializing in Software Technology at De La Salle University - Manila.
 - 💻 I'm passionate about Software Development, Python Programming, and building real-world applications.
 - 🚀 Currently improving my skills in Data Structures, Algorithms, and Agile Software Development.
 
